@@ -1,5 +1,5 @@
 import unittest
-from core_simple import *
+from dezero.core_simple import *
 
 class SquareTest(unittest.TestCase):
     def test_forward(self):
